@@ -1,5 +1,5 @@
 import './App.css'
-import { AddStudent, EditStudent, StudentDetail, StudentList } from './pages/Index';
+import { AddStudent, EditStudent, StudentDetail, StudentList } from './pages/index';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 function App() {
